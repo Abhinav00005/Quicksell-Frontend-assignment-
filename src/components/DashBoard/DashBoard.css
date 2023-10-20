@@ -1,0 +1,18 @@
+.dashBox{
+    background-color: #f5f6fa;
+    display: flex;
+    align-items: flex-start;
+    height: 100vh;
+    gap: 20px;
+    padding: 5px 10px;
+    overflow-x: auto;
+}
+
+.dash-Card-Box{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 5px;
+    width : 300px;
+    flex-direction: column;
+}
